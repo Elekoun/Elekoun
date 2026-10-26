@@ -27,6 +27,7 @@ I work on **quantitative economics and data analysis**: evaluating public polici
 |---|---|---|
 | [**Low Emission Zones & air pollution**](https://github.com/Elekoun/lez-air-quality-lyon) | Causal evaluation of Lyon's Low Emission Zone on NO₂ pollution, using Bordeaux as a control group (difference-in-differences, parallel trends, placebo test) | Stata |
 | [**Task Manager**](https://github.com/Elekoun/task-manager-python) | Command-line task manager with JSON persistence, priority sorting, a weighted productivity score and Excel export | Python, pandas |
+| [**Income inequality & healthy life years**](https://github.com/Elekoun/healthy-life-inequality-europe) | Panel analysis of 30+ European countries (2014–2023): relationship between income inequality and years lived in good health, with country and year fixed effects | R, ggplot2 |
 
 *More projects coming soon.*
 
